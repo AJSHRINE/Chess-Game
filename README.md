@@ -41,6 +41,7 @@ A command line Chess Game
 * If the inputs are wrong ,  Again it executes and asks for input of source and destination
 
 * If user wants  to exit the game , option will be given to exit ...User has to type  "exit" , When it is asked 
+* code: https://github.com/AJSHRINE/Chess-Game/blob/main/chess.cpp
  
 ![](Black's%20turn.png)
 
