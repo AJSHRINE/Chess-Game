@@ -28,6 +28,8 @@ A command line Chess Game
 
 // * R/r- rook; N/n- Knight; B/b- Bishop; K/k- King; Q/q- Queen; P/p- Pawn
 
+
+
 **In output part:[TASK 1,TASK 2]**
 
 * At first , Black's turn and followed by white's turn,
@@ -41,6 +43,7 @@ A command line Chess Game
 * If user wants  to exit the game , option will be given to exit ...User has to type  "exit" , When it is asked 
  
 ![](Black's%20turn.png)
+
 
  **Records [TASK 3]**:
 *  moves will be recorded 
