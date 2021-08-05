@@ -12,7 +12,7 @@ A command line Chess Game
   Task 3 - Recording
  
  
-**variable name explanation:**
+**VARIABLE NAME EXPANSIONS(in code)**
 
 // * sr - source row 
 
@@ -22,7 +22,7 @@ A command line Chess Game
 
 // * dc - destination column
 
-// * Captial Alphabets - black pieces
+// * Captial letter Alphabets - black pieces
 
 // * Small letter alphabets - white pieces
 
